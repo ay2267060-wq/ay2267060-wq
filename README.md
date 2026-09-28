@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I am Ashutosh
 I am a student currently studying at Prof. Rajendra Singh (Rajju Bhaiya) University. I am building my path in software development and exploring how technology works behind the scenes.
 # About Me
